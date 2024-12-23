@@ -1,7 +1,6 @@
 # _______________________________________________________________________________________________
 # CPCS331: Artificial Intelligence I - 29 October 2024
 # Group members: Reema Alghamdi, Rasha Alsabouni, Manar Alharbi, Nora AlGhamdi
-# Section: 01 and 02
 # _______________________________________________________________________________________________
 # 🎉 Welcome to SafeBite! 🎉
 # 🍽️ Your Personalized Gluten-Free Nutrition Assistant 🍽️
