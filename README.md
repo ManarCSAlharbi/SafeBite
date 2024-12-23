@@ -3,37 +3,37 @@ SafeBite is an AI-powered expert system designed to provide personalized dietary
 
 # Features ✨
 
-Personalized Meal Plans: Tailored recommendations based on user input. 
+- Personalized Meal Plans: Tailored recommendations based on user input. 
 
-Support for Multiple Allergies: Accounts for gluten and lactose intolerances. 
+- Support for Multiple Allergies: Accounts for gluten and lactose intolerances. 
 
-Flexible Dietary Options: Suggestions include light meals, main courses, or snacks. 
+- Flexible Dietary Options: Suggestions include light meals, main courses, or snacks. 
 
-User-Friendly Interaction: Simplified yes/no questions for input. 
+- User-Friendly Interaction: Simplified yes/no questions for input. 
 
-Health-Conscious Guidance: Based on reliable nutritional and medical resources. 
+- Health-Conscious Guidance: Based on reliable nutritional and medical resources. 
 
 # Table of Contents 📖
 
-Introduction
+- Introduction
 
-Usage
+- Usage
 
-System Design
+- System Design
 
-Contributors
+- Contributors
 
-References
+- References
 
 # Introduction 🌟
 
 SafeBite is designed for:
 
-Individuals with Gluten Sensitivity: Avoid gluten exposure and maintain a healthy diet. 
+- Individuals with Gluten Sensitivity: Avoid gluten exposure and maintain a healthy diet. 
 
-Parents of Children with Allergies: Create safe and nutritious meal plans for their children. 
+- Parents of Children with Allergies: Create safe and nutritious meal plans for their children. 
 
-Health-Conscious Users: Explore gluten-free options for better health and well-being. 
+- Health-Conscious Users: Explore gluten-free options for better health and well-being. 
 
 # Purpose 🎯
 
@@ -41,15 +41,13 @@ SafeBite integrates expert knowledge and reliable resources to empower users to 
 
 # Usage 🛠️
 
-Launch the SafeBite application. 
+- Launch the SafeBite application. 
 
-Answer the simple yes/no questions about your dietary needs, age, and preferences. 
+- Answer the simple yes/no questions about your dietary needs, age, and preferences. 
 
-Receive personalized meal recommendations tailored to your profile. 
+- Receive personalized meal recommendations tailored to your profile. 
 
-# System Design 🛠️
-
-- Flowchart 📊
+# System Design 🛠️ 
 
 SafeBite uses a forward-chaining rule-based system powered by the Experta library in Python. Below is the workflow:
 
@@ -59,28 +57,28 @@ The system evaluates rules to generate recommendations. 
 
 Outputs tailored meal plans and advice. 
 
-Refer to the [flowchart diagram](https://drive.google.com/file/d/1ED9E_TRfciR3xkrGbQG-I6kzXqGSCq1C/edit?usp=sharing) for detailed logic.
+- Refer to the [flowchart diagram](https://drive.google.com/file/d/1ED9E_TRfciR3xkrGbQG-I6kzXqGSCq1C/edit?usp=sharing) for detailed logic.
 
 
 # Contributors 🤝
 
-Reema Alghamdi
+- Reema Alghamdi
 
-Rasha Alsabouni
+- Rasha Alsabouni
 
-Manar Alharbi
+- Manar Alharbi
 
-Nora Alghamdi
+- Nora Alghamdi
 
 Each team member contributed equally to the development of this project. 
 
 # References 📚
 
-Healthline: Gluten-Free Diet Guide
+- Healthline: Gluten-Free Diet Guide
 
-Medical News Today: Gluten Foods
+- Medical News Today: Gluten Foods
 
-World Gastroenterology Organization
+- World Gastroenterology Organization
 
 
 
