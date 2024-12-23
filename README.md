@@ -94,9 +94,11 @@ This project is licensed under the MIT License. See the [LICENSE](https://openso
 git clone https://github.com/your-username/safebite.git
 
 3. Install Dependencies 📦
+
 pip install -r requirements.txt
 
-4. Run the Application ▶️
+5. Run the Application ▶️
+
 python safebite.py
 
 
