@@ -59,7 +59,8 @@ The system evaluates rules to generate recommendations. 
 
 Outputs tailored meal plans and advice. 
 
-Refer to the flowchart diagram for detailed logic.
+Refer to the [flowchart diagram](https://drive.google.com/file/d/1ED9E_TRfciR3xkrGbQG-I6kzXqGSCq1C/edit?usp=sharing) for detailed logic.
+
 
 # Contributors 🤝
 
