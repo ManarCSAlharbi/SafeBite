@@ -49,7 +49,7 @@ Receive personalized meal recommendations tailored to your profile. 
 
 # System Design 🛠️
 
-# Flowchart 📊
+- Flowchart 📊
 
 SafeBite uses a forward-chaining rule-based system powered by the Experta library in Python. Below is the workflow:
 
