@@ -96,7 +96,7 @@ git clone https://github.com/your-username/safebite.git
 pip install -r requirements.txt
 
 4. Run the Application ▶️
-5. python safebite.py
+python safebite.py
 
 
 
