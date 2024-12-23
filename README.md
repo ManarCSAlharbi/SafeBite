@@ -47,6 +47,20 @@ Answer the simple yes/no questions about your dietary needs, age, and preference
 
 Receive personalized meal recommendations tailored to your profile. 
 
+# System Design 🛠️
+
+# Flowchart 📊
+
+SafeBite uses a forward-chaining rule-based system powered by the Experta library in Python. Below is the workflow:
+
+Users input their preferences and dietary restrictions. 
+
+The system evaluates rules to generate recommendations. 
+
+Outputs tailored meal plans and advice. 
+
+Refer to the flowchart diagram for detailed logic.
+
 # Contributors 🤝
 
 Reema Alghamdi
