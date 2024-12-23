@@ -24,6 +24,10 @@ SafeBite is an AI-powered expert system designed to provide personalized dietary
 - Contributors
 
 - References
+  
+- LICENSE
+  
+- Installation
 
 # Introduction 🌟
 
@@ -78,6 +82,23 @@ Each team member contributed equally to the development of this project. 
 2. [Medical News Today: Gluten Foods](https://www.medicalnewstoday.com/articles/gluten-foods#summary)
 3. [World Gastroenterology Organization](https://www.worldgastroenterology.org/)
 4. [SafeBite Flowchart Diagram](https://drive.google.com/file/d/1ED9E_TRfciR3xkrGbQG-I6kzXqGSCq1C/edit?usp=sharing)
+
+# License 📜
+
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/MIT) file for details. 
+
+# Installation ⚙️
+
+1. Clone the Repository 🖥️
+   git clone https://github.com/your-username/safebite.git
+
+2. Install Dependencies 📦
+   pip install -r requirements.txt
+
+3. Run the Application ▶️
+   python safebite.py
+
+
 
 
 
