@@ -166,7 +166,7 @@ class SafeBiteEngine(KnowledgeEngine):
         self.recommendations.append(f"- Lunch: {selected_meal_plan['lunch']}")
         self.recommendations.append(f"- Dinner: {selected_meal_plan['dinner']}")
 
-    # New method to add recommendations when plan='no'
+    # method to add recommendations when plan='no'
     def add_recommendations_no_plan(self, age, meal_preference, lactose_gluten_allergy):
         self.recommendations.append(
             "🤖 Here are your personalized gluten-free recommendations based on your profile: 🤖")
