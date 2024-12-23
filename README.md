@@ -89,7 +89,8 @@ This project is licensed under the MIT License. See the [LICENSE](https://openso
 
 # Installation ⚙️
 
-1. Clone the Repository 🖥️
+1. Clone the Repository 🖥️ 
+
 git clone https://github.com/your-username/safebite.git
 
 3. Install Dependencies 📦
