@@ -74,11 +74,11 @@ Each team member contributed equally to the development of this project. 
 
 # References 📚
 
-- Healthline: Gluten-Free Diet Guide
+1. [Healthline: Gluten-Free Diet Guide](https://www.healthline.com/nutrition/gluten-free-diet)
+2. [Medical News Today: Gluten Foods](https://www.medicalnewstoday.com/articles/gluten-foods#summary)
+3. [World Gastroenterology Organization](https://www.worldgastroenterology.org/)
+4. [SafeBite Flowchart Diagram](https://drive.google.com/file/d/1ED9E_TRfciR3xkrGbQG-I6kzXqGSCq1C/edit?usp=sharing)
 
-- Medical News Today: Gluten Foods
-
-- World Gastroenterology Organization
 
 
 
