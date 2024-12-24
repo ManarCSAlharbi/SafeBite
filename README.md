@@ -15,19 +15,21 @@ SafeBite is an AI-powered expert system designed to provide personalized dietary
 
 # Table of Contents 📖
 
-- Introduction
+- [Introduction]( Introduction 🌟)
 
-- Usage
+- [Purpose]( Purpose 🎯)
 
-- System Design
+- [Usage]( Usage 🛠️)
 
-- Contributors
+- [System Design]( System Design 🛠️)
 
-- References
+- [Contributors]( Contributors 🤝)
+
+- [References]( References 📚)
   
-- LICENSE
+- [LICENSE]( License 📜)
   
-- Installation
+- [Installation]( Installation ⚙️)
 
 # Introduction 🌟
 
