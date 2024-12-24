@@ -1,111 +1,107 @@
 # SafeBite: AI-Powered Gluten-Free Dietary Assistant 🍽️
+
 SafeBite is an AI-powered expert system designed to provide personalized dietary recommendations and meal plans for individuals with gluten allergies. By considering user preferences, age, weight, lifestyle, and other potential allergies or conditions, SafeBite generates customized meal suggestions to support a healthy and allergen-free lifestyle 🌱.
 
-# Features ✨
+## Features ✨
 
-- Personalized Meal Plans: Tailored recommendations based on user input. 
+- **Personalized Meal Plans**: Tailored recommendations based on user input. 
+- **Support for Multiple Allergies**: Accounts for gluten and lactose intolerances. 
+- **Flexible Dietary Options**: Suggestions include light meals, main courses, or snacks. 
+- **User-Friendly Interaction**: Simplified yes/no questions for input. 
+- **Health-Conscious Guidance**: Based on reliable nutritional and medical resources. 
 
-- Support for Multiple Allergies: Accounts for gluten and lactose intolerances. 
+---
 
-- Flexible Dietary Options: Suggestions include light meals, main courses, or snacks. 
+## Table of Contents 📖
 
-- User-Friendly Interaction: Simplified yes/no questions for input. 
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [System Design](#system-design)
+5. [Contributors](#contributors)
+6. [References](#references)
+7. [License](#license)
 
-- Health-Conscious Guidance: Based on reliable nutritional and medical resources. 
+---
 
-# Table of Contents 📖
-
-- Introduction
-
-- Purpose
-
-- Usage
-
-- System Design 
-
-- Contributors
-
-- References
-  
-- License
-  
-- Installation
-
-
-# Introduction 🌟
+## Introduction 🌟
 
 SafeBite is designed for:
 
-- Individuals with Gluten Sensitivity: Avoid gluten exposure and maintain a healthy diet. 
+- **Individuals with Gluten Sensitivity**: Avoid gluten exposure and maintain a healthy diet. 
+- **Parents of Children with Allergies**: Create safe and nutritious meal plans for their children. 
+- **Health-Conscious Users**: Explore gluten-free options for better health and well-being. 
 
-- Parents of Children with Allergies: Create safe and nutritious meal plans for their children. 
-
-- Health-Conscious Users: Explore gluten-free options for better health and well-being. 
-
-# Purpose 🎯
+### Purpose 🎯
 
 SafeBite integrates expert knowledge and reliable resources to empower users to manage their dietary needs effectively while improving their overall health. 
 
-# Usage 🛠️
+---
 
-- Launch the SafeBite application. 
+## Installation ⚙️
 
-- Answer the simple yes/no questions about your dietary needs, age, and preferences. 
+1. **Clone the Repository** 🖥️
 
-- Receive personalized meal recommendations tailored to your profile. 
+   ```bash
+   git clone https://github.com/your-username/safebite.git
+   ```
 
-# System Design 🛠️ 
+2. **Install Dependencies** 📦
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Application** ▶️
+
+   ```bash
+   python safebite.py
+   ```
+
+---
+
+## Usage 🛠️
+
+1. Launch the SafeBite application. 
+2. Answer the simple yes/no questions about your dietary needs, age, and preferences. 
+3. Receive personalized meal recommendations tailored to your profile. 
+
+---
+
+## System Design 🛠️
+
+### Flowchart 📊
 
 SafeBite uses a forward-chaining rule-based system powered by the Experta library in Python. Below is the workflow:
 
-Users input their preferences and dietary restrictions. 
+1. Users input their preferences and dietary restrictions. 
+2. The system evaluates rules to generate recommendations. 
+3. Outputs tailored meal plans and advice. 
 
-The system evaluates rules to generate recommendations. 
+Refer to the [flowchart diagram](https://drive.google.com/file/d/1ED9E_TRfciR3xkrGbQG-I6kzXqGSCq1C/edit?usp=sharing) for detailed logic.
 
-Outputs tailored meal plans and advice. 
+---
 
-- Refer to the [flowchart diagram](https://drive.google.com/file/d/1ED9E_TRfciR3xkrGbQG-I6kzXqGSCq1C/edit?usp=sharing) for detailed logic.
+## Contributors 🤝
 
-
-# Contributors 🤝
-
-- Reema Alghamdi
-
-- Rasha Alsabouni
-
-- Manar Alharbi
-
-- Nora Alghamdi
+- **Reema Alghamdi**
+- **Rasha Alsabouni**
+- **Manar Alharbi**
+- **Nora Alghamdi**
 
 Each team member contributed equally to the development of this project. 
 
-# References 📚
+---
+
+## References 📚
 
 1. [Healthline: Gluten-Free Diet Guide](https://www.healthline.com/nutrition/gluten-free-diet)
 2. [Medical News Today: Gluten Foods](https://www.medicalnewstoday.com/articles/gluten-foods#summary)
 3. [World Gastroenterology Organization](https://www.worldgastroenterology.org/)
-4. [SafeBite Flowchart Diagram](https://drive.google.com/file/d/1ED9E_TRfciR3xkrGbQG-I6kzXqGSCq1C/edit?usp=sharing)
 
-# License 📜
+---
 
-This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/MIT) file for details. 
+## License 📜
 
-# Installation ⚙️
-
-1. Clone the Repository 🖥️ 
-
-- git clone https://github.com/your-username/safebite.git
-
-3. Install Dependencies 📦
-
-- pip install -r requirements.txt
-
-5. Run the code ▶️
-
-- python safebite.py
-
-
-
-
-
+This project is licensed under the **MIT License**. See the [LICENSE](https://opensource.org/licenses/MIT) file for details. 
 
